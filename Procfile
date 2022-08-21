@@ -1,1 +1,1 @@
-web: php main.php
+web: python3 main.py
